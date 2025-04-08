@@ -1,6 +1,6 @@
 import requests
 
-url = "https://www.gob.mx/curp/"
+url = "http-link"
 
 response = requests.get(url)
 
